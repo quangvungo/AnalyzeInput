@@ -1,0 +1,4 @@
+Model\StringInput.class
+Controller\Analyze.class
+View\AnalysisView.class
+com\mycompany\analyzeinput\AnalyzeInput.class
